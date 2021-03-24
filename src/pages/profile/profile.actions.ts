@@ -1,8 +1,4 @@
-// import {
-//     FETCH_PROFILE_REQUEST,
-//     FETCH_PROFILE_SUCCESS,
-//     FETCH_PROFILE_FAILURE,
-// } from './profile.actionTypes';
+
 import { User } from './profile.interface';
 
 export function fetchProfile() {

@@ -1,4 +1,4 @@
-// import { FETCH_PROFILE_REQUEST } from './profile.actionTypes';
+
 import { all, put, call, takeLatest } from 'redux-saga/effects';
 import { fetchProfileFailure, fetchProfileSuccess } from './profile.actions';
 import { getUserProfile } from '../../services/api';
