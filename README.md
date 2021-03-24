@@ -1,15 +1,13 @@
-# React App
+# React Application
 
 
+# Usage:
 
-# Usage
-`
 ## install all dependency
 ~/ npm install
 
 ## run
 ~/ npm start
 
-`
 
 
